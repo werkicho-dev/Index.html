@@ -155,31 +155,6 @@ nav ul li a:hover{
     border-radius: 30px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @media screen and (max-width: 768px) {
     #inters, #course{
         flex-direction: column;
